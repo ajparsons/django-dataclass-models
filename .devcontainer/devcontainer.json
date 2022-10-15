@@ -1,5 +1,5 @@
 {
-	"name": "{{cookiecutter.underscored}}",
+	"name": "django_dataclass_models",
 	"build": {
 		"dockerfile": "../Dockerfile"
 	},
